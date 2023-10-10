@@ -1,0 +1,18 @@
+    /*
+    Theme Name: gutenify-hustle Child Theme
+    Template: gutenify-hustle
+    */
+
+    @font-face {
+        font-family: Arial;
+        src: url(https://fonts.cdnfonts.com/css/arial-2);
+        font-weight: normal;
+    }
+
+.arial {
+    font-family: "Arial", sans-serif;
+}
+    
+    /* @import url('https://fonts.cdnfonts.com/css/arial-2'); */
+    /* Specify in CSS - Use the following CSS rules to specify these families */
+    /* font-family: 'Arial', sans-serif; */
